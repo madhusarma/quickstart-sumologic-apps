@@ -6,7 +6,6 @@ This Quick Start reference deployment guide provides step-by-step instructions f
 
 
 
-![Architecture diagram](https://user-images.githubusercontent.com/6774570/67734626-c07c8800-f9be-11e9-86d8-336b224e609e.png)
-
+![Sumo Logic Architecture diagram](https://user-images.githubusercontent.com/6774570/67910765-3b6dac00-fb41-11e9-86c1-9d600d6dc27e.png)
 
 To post feedback, submit feature ideas, or report bugs, use the Issues section of this GitHub repo.
